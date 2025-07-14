@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Hi%20There!🌞&desc=I`m%20a%20Java%20Developer%20from%20Ukraine👨‍💻&descSize=30&descAlignY=70"/>
+  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Hi%20There!🌞&desc=I`m%20a%20Java%20Developer%20from%20Ukraine👨‍💻&fontColor=ffffff&descSize=30&descAlignY=70" /> <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Hi%20There!🌞&desc=I`m%20a%20Java%20Developer%20from%20Ukraine👨‍💻&fontColor=290497&descSize=30&descAlignY=70" /> <img src="" /> </picture>
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
 * 🌍 I am located in Ukraine
-* 💛 I am passionate about web development
-* 🍃 I am currently studying the Spring Ecosystem
-* 🤝 I am looking to collaborate on interesting projects
-* 🚀 I love creating new things
+* 💛 Passionate about web development
+* 🍃 Currently studying the Spring Ecosystem
+* 🤝 Looking to collaborate on interesting projects
+* 🚀 Love creating new things
 
 ## 🛠️ Skills and Tools:
 
